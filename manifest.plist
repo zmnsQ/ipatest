@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://gitee.com/zxpengcc/distribution_test/raw/master/57.png</string>
+					<string>https://raw.githubusercontent.com/sinzxp/myipa/master/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://gitee.com/zxpengcc/distribution_test/raw/master/512.png</string>
+					<string>https://raw.githubusercontent.com/sinzxp/myipa/master/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
